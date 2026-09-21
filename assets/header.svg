@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 280" role="img" aria-labelledby="title desc">
+  <title id="title">Essam Mohamed — AI Developer</title>
+  <desc id="desc">A dark cyan developer profile banner for Essam Mohamed.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="60%" stop-color="#0B1320"/>
+      <stop offset="100%" stop-color="#0B2530"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="280" rx="18" fill="url(#bg)"/>
+  <g opacity="0.10" stroke="#8BE9FD">
+    <path d="M0 55H1600M0 110H1600M0 165H1600M0 220H1600"/>
+    <path d="M80 0V280M240 0V280M400 0V280M560 0V280M720 0V280M880 0V280M1040 0V280M1200 0V280M1360 0V280M1520 0V280"/>
+  </g>
+  <path d="M0 230 C240 198 310 270 560 226 C820 180 1070 252 1300 214 C1410 196 1500 226 1600 208 L1600 280 L0 280 Z" fill="#062E3A"/>
+  <path d="M0 232 C240 200 310 272 560 228 C820 182 1070 254 1300 216 C1410 198 1500 228 1600 210" fill="none" stroke="url(#line)" stroke-width="5" filter="url(#glow)"/>
+  <circle cx="112" cy="92" r="42" fill="#0EA5E9" opacity="0.13"/>
+  <circle cx="112" cy="92" r="7" fill="#67E8F9" filter="url(#glow)"/>
+  <text x="160" y="88" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">&lt;hello-world/&gt;</text>
+  <text x="160" y="138" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="48">Essam Mohamed</text>
+  <text x="160" y="178" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="24">AI Developer • Machine Learning • Data Automation</text>
+  <text x="160" y="216" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="18">Python • Scikit-learn • Pandas • Web Automation • C# / .NET</text>
+  <text x="1320" y="68" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">BUILD → MEASURE → IMPROVE</text>
+</svg>

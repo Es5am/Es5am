@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 170" role="img" aria-labelledby="title desc">
+  <title id="title">Keep Building — Essam Mohamed</title>
+  <desc id="desc">Cyan wave footer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#07131B"/>
+      <stop offset="100%" stop-color="#082735"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="170" rx="18" fill="url(#bg)"/>
+  <path d="M0 90 C260 50 380 136 650 88 C910 42 1100 122 1350 72 C1450 52 1520 70 1600 58 L1600 170 L0 170 Z" fill="url(#wave)" opacity="0.95"/>
+  <text x="800" y="55" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">KEEP BUILDING • KEEP LEARNING • KEEP SHIPPING</text>
+  <text x="800" y="132" text-anchor="middle" fill="#062330" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">@Es5am</text>
+</svg>
