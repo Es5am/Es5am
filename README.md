@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header" width="100%" alt="Animated blue wave header" />
 </div>
 
-<br />
-
-<h1 align="center">Essam Mohamed</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Essam+Mohamed;AI+Developer;Machine+Learning;Data+Automation;Python+Developer;Backend+%2B+AI" alt="Essam Mohamed animated title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=4500&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi,+Iam+Essam+Mohamed;AI+Developer;Machine+Learning;Data+Automation;Python+Developer;Backend+%2B+AI" alt="Essam Mohamed animated title" />
 </p>
 
 <p align="center">
