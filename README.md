@@ -1,12 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=header" width="100%" alt="Animated blue wave header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header" width="100%" alt="Animated blue wave header" />
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github.com/Es5am.png?size=220" width="160" height="160" alt="Essam Mohamed" />
-</div>
 
 <h1 align="center">Essam Mohamed</h1>
 
